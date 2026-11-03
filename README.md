@@ -53,7 +53,7 @@ The analysis relies on a relational retail dataset structured across multiple lo
 
 ## 7. Dashboard Preview
 
-![S.L.K Mart Sales Analysis Dashboard](images/dashboard-preview.png)
+![S.L.K Mart Sales Analysis Dashboard](SLK Power BI Project.png)
 
 *The executive dashboard provides immediate top-line visibility into Total Orders (125), Total Cost (681K), Total Sales (908K), and Total Quantity Sold (2K), alongside interactive slicers for Order Date, Manager, and State Headquarters.*
 
